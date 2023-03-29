@@ -7,7 +7,7 @@ package testsemestralgit;
 public class User {
     private String name;
     private String surname;
-    private int yearOfBirth;
+    private int dayOfBirth;
     
     
 }
